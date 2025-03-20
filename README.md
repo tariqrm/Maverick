@@ -50,7 +50,26 @@ This Micromouse robot is designed to traverse a maze by detecting walls in its c
 #### HC-05 Bluetooth Module
 - Provides serial communication over Bluetooth, for debugging or remote control.
 
+## Side View
+![Side view](images/Side_view.jpeg)
+
+## Top View
+![Top view](images/Top_view.jpeg)
+
+### PCB Design
+
+EasyEDA was utilized as it is a bigger friendly pcb design suite and contains libraries for many components
+
+## Schematic
+![Schematic](images/schematic.png)
+
+## PCB
+![PCB](images/PCB.png)
+
 ### Software & STM32CubeIDE
+
+## STM32 Pinout
+![STM pinout](images/STM_pinout.png)
 
 STM32CubeIDE is used for firmware development. This integrated tool provides:
 - HAL (Hardware Abstraction Layer) libraries: Simplifies peripheral configuration, making code more hardware-portable.
